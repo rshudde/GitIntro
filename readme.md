@@ -6,4 +6,4 @@ this is a sentence added from Rstudiosss
 
 new sentence thursday class
 
-this is my forced onflict sentence
+this is my forced onflict this sentence
